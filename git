@@ -1,0 +1,23 @@
+[33mcommit 0e668b2c03d976265fb1e48bff6431c1060ee402[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Altin Vezaj <altinvezaj0@gmail.com>
+Date:   Wed Feb 8 17:17:30 2023 +0100
+
+    uptadet test.txt
+
+[33mcommit 9171a8f018e51b4df0f4d7b8b87e6eb211c88115[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Altin Vezaj <altinvezaj0@gmail.com>
+Date:   Wed Feb 8 17:06:50 2023 +0100
+
+    added new feature
+
+[33mcommit b82a6aafe4573a406673db2088a34144b0d388dd[m
+Author: Altin Vezaj <altinvezaj0@gmail.com>
+Date:   Wed Feb 8 16:42:47 2023 +0100
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 22219cf3640a3edcf88d962f0c7fbe612fd1f11d[m
+Author: Altin Vezaj <altinvezaj0@gmail.com>
+Date:   Wed Feb 8 16:23:21 2023 +0100
+
+    added test.txt file
